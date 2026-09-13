@@ -1,0 +1,2 @@
+# ArewaDS_Aminu_week1python.ipynb
+week1_Assignemt_for_ArewaDS
